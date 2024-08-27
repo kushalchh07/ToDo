@@ -5,7 +5,7 @@
 // ignore: avoid_web_libraries_in_flutter
 
 import 'package:flutter/material.dart';
-import 'package:todo_app/dialog_box.dart';
+import 'package:todo_app/utils/custom_widgets/dialog_box.dart';
 
 class BackGround extends StatefulWidget {
   final String name;

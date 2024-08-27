@@ -1,7 +1,7 @@
 // ignore_for_file: prefer_const_constructors
 
 import 'package:flutter/material.dart';
-import 'package:todo_app/homepage.dart';
+import 'package:todo_app/pages/homepage.dart';
 
 class HomeScreen extends StatelessWidget {
   HomeScreen({super.key});

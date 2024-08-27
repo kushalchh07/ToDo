@@ -1,11 +1,11 @@
 // ignore_for_file: prefer_const_literals_to_create_immutables, prefer_const_constructors
 // import 'package:flex_color_picker/flex_color_picker.dart';
 import 'package:flutter/material.dart';
-import 'package:todo_app/Today.dart';
-import 'package:todo_app/personal.dart';
-import 'package:todo_app/planned.dart';
-import 'package:todo_app/shopping.dart';
-import 'package:todo_app/work.dart';
+import 'package:todo_app/pages/Today.dart';
+import 'package:todo_app/pages/personal.dart';
+import 'package:todo_app/pages/planned.dart';
+import 'package:todo_app/pages/shopping.dart';
+import 'package:todo_app/pages/work.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({super.key});
